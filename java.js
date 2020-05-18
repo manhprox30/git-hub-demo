@@ -1,1 +1,1 @@
-hello
+const a = 123 ;
